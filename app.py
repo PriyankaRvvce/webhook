@@ -5,4 +5,4 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Python CI Experiment")
-    print("Addition result:", add(15, 25))
+    print("Addition result:", add(30, 40))
